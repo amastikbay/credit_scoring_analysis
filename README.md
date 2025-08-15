@@ -36,6 +36,10 @@ We need to understand how different client characteristics affect the fact of lo
 - **purpose** — Purpose of the loan  
 
 
+## Used tools in this project: 
+
 Language: **Python** 
+
 Tool: **Jupyter Notebook** 
+
 Libraries used: **pandas, counter, snowballstemmer**
